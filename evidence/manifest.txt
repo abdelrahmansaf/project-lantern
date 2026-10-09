@@ -1,0 +1,31 @@
+PROJECT LANTERN
+EVIDENCE MANIFEST 001
+
+The next archive identifier has four digits.
+
+Five candidate records were recovered:
+
+A = 4, 1, 8, 2
+B = 2, 7, 1, 9
+C = 3, 6, 5, 4
+D = 1, 7, 2, 6
+E = 2, 7, 1, 1
+
+A valid record must satisfy ALL conditions:
+
+1. The sum of its four digits is a prime number.
+2. Exactly one digit is even.
+3. The first digit is smaller than the last digit.
+4. No digit appears more than once.
+
+Do not choose the record that merely looks plausible.
+Prove that exactly one record satisfies every condition.
+
+Once identified, preserve its four digits in their original order.
+
+The next repository is owned by the same GitHub account
+that owns PROJECT LANTERN.
+
+Its name follows this pattern:
+
+archive-<four-digit-identifier>
